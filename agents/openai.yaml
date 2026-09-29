@@ -1,0 +1,4 @@
+interface:
+  display_name: "古诗词古风片头改剪"
+  short_description: "替换已有古诗词视频片头，清理旧字幕、复用旁白并接回原讲解"
+  default_prompt: "使用 $poetry-omni-intro-recut 修改 DAY061，按实际原诗结束时间切分，制作古风片头并接回讲解。"
