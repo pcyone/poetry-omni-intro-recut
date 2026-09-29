@@ -1,5 +1,19 @@
 # 古诗词 Omni 古风片头改剪 Skill
 
+
+
+https://github.com/user-attachments/assets/51a49187-efdc-41cc-9762-8d9a8a6524ca
+
+
+
+https://github.com/user-attachments/assets/32a0149e-7020-4130-bb7f-241f547365b5
+
+
+
+https://github.com/user-attachments/assets/207b9f68-eef6-4e53-a2bd-a7f0dd9077e4
+
+
+
 这是一个供 Codex 使用的古诗词视频改剪流程。它把**已有** DAY 古诗词学习视频的导入与完整原诗朗读部分，替换为 Omni 生成的古风动画，重新配回原旁白和字幕，再接上原视频的译文、解读等后段内容。
 
 本仓库只包含 Skill 指令、参考说明和两个辅助脚本，**不包含**课程项目、原视频、音频、Omni 生成片段或付费平台账号。它不负责新建课程、自动批量发布，也不会覆盖已经发布的原片。
